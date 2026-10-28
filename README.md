@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.fullstopsolution.in">
-    <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/logo-wide.png" alt="Fullstop Solution Logo" width="380">
+    <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/fullstop-banner.svg" alt="Fullstop Solution" width="760">
   </a>
 </p>
 
@@ -80,7 +80,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ---
 
-### 🛡️ About Fullstop Solution
+### <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/logo.png" alt="Fullstop Solution" width="28" style="vertical-align:middle; margin-right:8px;"> About Fullstop Solution
 
 **Fullstop Solution** ([www.fullstopsolution.in](https://www.fullstopsolution.in)) develops precision open-source software, native enterprise security auditing tools, and privacy-first digital engineering suites. Built for developers, security researchers, and system administrators who require absolute privacy, client-side execution, and zero cloud lock-in.
 
