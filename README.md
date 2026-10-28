@@ -53,7 +53,7 @@ Prefer native desktop applications? The full offline digital suite is compiled a
 | **macOS Intel** | x86_64 Core i5/i7/i9 | `.zip` | [Download for Mac Intel](https://www.fullstopsolution.in/downloads/mac/fullstop-desktop-macos-x64.zip) | `bdc3e0970bc55ed14572899c834831c726ea89dcec622e4b690c12c429a3fb15` |
 | **Windows** | 64-bit Portable | `.zip` | [Download for Windows x64](https://www.fullstopsolution.in/downloads/windows/fullstop-desktop-windows-x64.zip) | `be983faf78d1184c5416f89d763d57243b9a84867da37d9ed0580dba4aaa0bee` |
 | **Linux Universal** | x86_64 | `.tar.gz` | [Download for Linux](https://www.fullstopsolution.in/downloads/linux/fullstop-desktop-linux-x86_64.tar.gz) | `aeb9a2f6c6cd2c05ed8257b2b4909445c5f6ae9b66ca83554daf88d40d2d1f77` |
-| **MacSentinel** (macOS Endpoint Auditor) | arm64 macOS 14+ | `.dmg` | [Download MacSentinel DMG](https://www.fullstopsolution.in/downloads/mac/MacSentinel-arm64.dmg) | `a3aa26a0f0d32569ff83bdc7afaea77c7682e0c0989a0f7021d1554900ff0786` |
+| **MacSentinel** (macOS Endpoint Auditor) | arm64 macOS 14+ | `.dmg` | [Download MacSentinel DMG](https://www.fullstopsolution.in/downloads/mac/MacSentinel-arm64.dmg) | `0e878f246f53a1cf73e21ffe6fbd40496650e68ee501b8062174e64ffbdec681` |
 
 * **Official Checksums:** [https://www.fullstopsolution.in/downloads/SHA256SUMS.txt](https://www.fullstopsolution.in/downloads/SHA256SUMS.txt)
 * **GPG Release Signature:** [https://www.fullstopsolution.in/downloads/FULLSTOP-SIGNATURE.asc](https://www.fullstopsolution.in/downloads/FULLSTOP-SIGNATURE.asc) (Key ID: `0x9E7F4B2C7D10A843`)
