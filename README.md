@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://www.fullstopsolution.in">
+    <img src="https://raw.githubusercontent.com/iamkuruphere-sudo/fullstopsolution-website/main/assets/images/logo-wide.png" alt="Fullstop Solution Logo" width="380">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.fullstopsolution.in"><img src="https://img.shields.io/badge/Official%20Website-fullstopsolution.in-cyan?style=for-the-badge&logo=safari" alt="Website"></a>
+  <a href="https://www.fullstopsolution.in/#desktop"><img src="https://img.shields.io/badge/Downloads-Desktop%20Suite-blue?style=for-the-badge&logo=apple" alt="Downloads"></a>
+  <a href="https://www.fullstopsolution.in/security.html"><img src="https://img.shields.io/badge/Privacy-Zero--Knowledge-brightgreen?style=for-the-badge" alt="Zero-Knowledge"></a>
+</p>
+
 # Fullstop RFC 4122 UUID Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -41,7 +53,7 @@ Prefer native desktop applications? The full offline digital suite is compiled a
 | **macOS Intel** | x86_64 Core i5/i7/i9 | `.zip` | [Download for Mac Intel](https://www.fullstopsolution.in/downloads/mac/fullstop-desktop-macos-x64.zip) | `bdc3e0970bc55ed14572899c834831c726ea89dcec622e4b690c12c429a3fb15` |
 | **Windows** | 64-bit Portable | `.zip` | [Download for Windows x64](https://www.fullstopsolution.in/downloads/windows/fullstop-desktop-windows-x64.zip) | `be983faf78d1184c5416f89d763d57243b9a84867da37d9ed0580dba4aaa0bee` |
 | **Linux Universal** | x86_64 | `.tar.gz` | [Download for Linux](https://www.fullstopsolution.in/downloads/linux/fullstop-desktop-linux-x86_64.tar.gz) | `aeb9a2f6c6cd2c05ed8257b2b4909445c5f6ae9b66ca83554daf88d40d2d1f77` |
-| **MacSentinel** (macOS Endpoint Auditor) | arm64 macOS 14+ | `.dmg` | [Download MacSentinel DMG](https://www.fullstopsolution.in/downloads/mac/MacSentinel-arm64.dmg) | `060f124de7d888b03550b42c8b011b3e8884e44dbe0acd49946252e4ff0016d3` |
+| **MacSentinel** (macOS Endpoint Auditor) | arm64 macOS 14+ | `.dmg` | [Download MacSentinel DMG](https://www.fullstopsolution.in/downloads/mac/MacSentinel-arm64.dmg) | `a3aa26a0f0d32569ff83bdc7afaea77c7682e0c0989a0f7021d1554900ff0786` |
 
 * **Official Checksums:** [https://www.fullstopsolution.in/downloads/SHA256SUMS.txt](https://www.fullstopsolution.in/downloads/SHA256SUMS.txt)
 * **GPG Release Signature:** [https://www.fullstopsolution.in/downloads/FULLSTOP-SIGNATURE.asc](https://www.fullstopsolution.in/downloads/FULLSTOP-SIGNATURE.asc) (Key ID: `0x9E7F4B2C7D10A843`)
@@ -66,4 +78,16 @@ Prefer native desktop applications? The full offline digital suite is compiled a
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
-© 2026 **Fullstop Solution** ([www.fullstopsolution.in](https://www.fullstopsolution.in)). All rights reserved.
+---
+
+### 🛡️ About Fullstop Solution
+
+**Fullstop Solution** ([www.fullstopsolution.in](https://www.fullstopsolution.in)) develops precision open-source software, native enterprise security auditing tools, and privacy-first digital engineering suites. Built for developers, security researchers, and system administrators who require absolute privacy, client-side execution, and zero cloud lock-in.
+
+- 🌐 **Official Website**: [https://www.fullstopsolution.in](https://www.fullstopsolution.in)
+- ⬇️ **All Desktop Apps & Downloads**: [https://www.fullstopsolution.in/#desktop](https://www.fullstopsolution.in/#desktop)
+- 🍏 **MacSentinel macOS Auditor**: [https://www.fullstopsolution.in/macsentinel.html](https://www.fullstopsolution.in/macsentinel.html)
+- 📂 **Open-Source GitHub Organization**: [https://github.com/iamkuruphere-sudo](https://github.com/iamkuruphere-sudo)
+- 🔒 **Zero Telemetry Guarantee**: 100% in-browser Web Crypto execution & zero server logging.
+
+© 2026 Fullstop Solution (www.fullstopsolution.in). All rights reserved.
